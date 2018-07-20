@@ -1,0 +1,41 @@
+.text-center.text-light {
+  line-height:200px;
+  font-family:'Antic Didone', serif;
+  font-size:63px;
+}
+
+img {
+  width:100%;
+}
+
+img {
+  display:inline-block;
+}
+
+#particles {
+}
+
+#text {
+  background-color:#02223a;
+  bottom:0;
+  color:rgba(255, 255, 255, 0.9);
+  display:inline-block;
+  font-size:5em;
+  font-weight:bold;
+  margin-top:3em;
+  opacity:0.76;
+  text-align:center;
+  text-shadow:1px 1px 1px #666;
+  text-transform:uppercase;
+  width:100%;
+  /*line-height:350px;*/
+}
+
+#header {
+  background-repeat:no-repeat;
+}
+
+#hed {
+  background-size:cover;
+}
+
